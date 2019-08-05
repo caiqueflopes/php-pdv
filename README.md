@@ -3,12 +3,17 @@
 
 # Acessos
 
-**Usuário Admin**
-User: admin@admin.com
-Pssw: 123
-**Usuário comun**
-User:teste@teste.com
-Pssw:123132
+**Usuários**
+
+<dl>
+  <dt>Adimin</dt>
+  <dd>User: admin@admin.com</dd>
+  <dd>Pssw: 123</dd>
+  
+  <dt>Usuário</dt>
+  <dd>teste@teste.com</dd>
+  <dd>123123</dd>
+</dl>
 
 # php
 **Api de comunicação com banco**
