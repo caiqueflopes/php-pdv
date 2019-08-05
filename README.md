@@ -1,5 +1,5 @@
 # php-pdv
-[Acesso sistema] (https://vendas-now.herokuapp.com/)
+[Acesso sistema](https://vendas-now.herokuapp.com/)
 
 # Acessos
 **Usuário Admin**
